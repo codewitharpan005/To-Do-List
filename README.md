@@ -1,4 +1,6 @@
 To Do List=>
+![To-Do List Screenshot](![TO-DO preview png](https://github.com/user-attachments/assets/d567d9c2-168c-465b-a391-20c6a2b05ae7)
+
 1)Description: 
 This is a simple To-Do List web application created using HTML, CSS, and JavaScript. The app allows users to add, edit, and delete tasks.
 The goal of this project is to practice basic DOM manipulation and event handling in JavaScript.
